@@ -1,4 +1,4 @@
-import Image form "next/image"
+import Image from "next/image";
 import React, { Fragment, useEffect, useMemo, useRef, useState } from "react";
 
 import styles from "./home.module.scss";
